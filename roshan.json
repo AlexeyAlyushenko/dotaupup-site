@@ -1,0 +1,128 @@
+[
+ {
+  "id": 0,
+  "icon": "r00.png",
+  "name": "Artifact change",
+  "count": 85,
+  "desc": "",
+  "hd": "img/roshan_hd/hd14.png",
+  "text": ""
+ },
+ {
+  "id": 1,
+  "icon": "r01.png",
+  "name": "Wood after the fight",
+  "count": 28,
+  "desc": "roshan_desc/wood_after_the_fight.png",
+  "hd": "img/roshan_hd/hd10.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that  appear, you will receive 500 wood. ';."
+ },
+ {
+  "id": 2,
+  "icon": "r02.png",
+  "name": "Everything after the fight",
+  "count": 27,
+  "desc": "roshan_desc/everything_after_the_fight.png",
+  "hd": "img/roshan_hd/hd13.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that appear, you will receive."
+ },
+ {
+  "id": 3,
+  "icon": "r03.png",
+  "name": "Peace of mind",
+  "count": 24,
+  "desc": "roshan_desc/peace_of_mind.png",
+  "hd": "img/roshan_hd/hd04.png",
+  "text": "Permanently gain +5 mana regeneration. For 60 seconds, restore an additional 60 mana per second and receive a 20% reduction in incoming damage."
+ },
+ {
+  "id": 4,
+  "icon": "r04.png",
+  "name": "Sacrifice to cards",
+  "count": 23,
+  "desc": "roshan_desc/sacrifice_to_cards.png",
+  "hd": "img/roshan_hd/hd02.png",
+  "text": "Absorb a random absorbable card. If there are  no suitable cards, get 50 wood. beter ee cee ee epee Fa times oroeeg€;."
+ },
+ {
+  "id": 5,
+  "icon": "r05.png",
+  "name": "Post-battle experience",
+  "count": 23,
+  "desc": "roshan_desc/postbattle_experience.png",
+  "hd": "img/roshan_hd/hd08.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that  appear, you will receive 5000 experience."
+ },
+ {
+  "id": 6,
+  "icon": "r06.png",
+  "name": "General upsurge",
+  "count": 23,
+  "desc": "roshan_desc/general_upsurge.png",
+  "hd": "img/roshan_hd/hd07.png",
+  "text": "All stats are increased by 40%."
+ },
+ {
+  "id": 7,
+  "icon": "r07.png",
+  "name": "Gold after the fight",
+  "count": 20,
+  "desc": "roshan_desc/gold_after_the_fight.png",
+  "hd": "img/roshan_hd/hd09.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that  appear, you will receive 5000 gold."
+ },
+ {
+  "id": 8,
+  "icon": "r08.png",
+  "name": "Battle Ecstasy",
+  "count": 18,
+  "desc": "roshan_desc/battle_ecstasy.png",
+  "hd": "img/roshan_hd/hd01.png",
+  "text": "Gain +50% attack speed and:  reduction for 60 seconds."
+ },
+ {
+  "id": 9,
+  "icon": "r09.png",
+  "name": "Thirst for trophies",
+  "count": 18,
+  "desc": "roshan_desc/thirst_for_trophies.png",
+  "hd": "img/roshan_hd/hd05.png",
+  "text": "For 60 seconds, gain 0.2 to all  monster you kill."
+ },
+ {
+  "id": 10,
+  "icon": "r10.png",
+  "name": "Post-battle stats",
+  "count": 16,
+  "desc": "roshan_desc/postbattle_stats.png",
+  "hd": "img/roshan_hd/hd12.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that appear, you will receive +300 to all characteristics. e - @."
+ },
+ {
+  "id": 11,
+  "icon": "r11.png",
+  "name": "Cornucopia",
+  "count": 15,
+  "desc": "roshan_desc/cornucopia.png",
+  "hd": "img/roshan_hd/hd06.png",
+  "text": "Get 5 monster horns and with a 25% chance  an additional 1 elite horn. -."
+ },
+ {
+  "id": 12,
+  "icon": "r12.png",
+  "name": "Souls after the battle",
+  "count": 15,
+  "desc": "roshan_desc/souls_after_the_battle.png",
+  "hd": "img/roshan_hd/hd11.png",
+  "text": "A detachment of enemy warriors will appear at the camp site. After killing all the creatures that  appear, you will receive 1000 souls. ‘;."
+ },
+ {
+  "id": 13,
+  "icon": "r13.png",
+  "name": "Heavenly Host",
+  "count": 13,
+  "desc": "roshan_desc/heavenly_host.png",
+  "hd": "img/roshan_hd/hd03.png",
+  "text": "Summon 5 warriors of the cele help in battle. They inherit 10C  health and attack. -."
+ }
+]

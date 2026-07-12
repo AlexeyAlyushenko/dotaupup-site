@@ -1,0 +1,164 @@
+[
+ {
+  "icon": "s024.png",
+  "name": "Vial of Fortitude",
+  "hd": "img/items_hd/levelup_1.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s003.png",
+  "name": "Potion of Intelligence",
+  "hd": "img/items_hd/levelup_10.png",
+  "score": 0.95
+ },
+ {
+  "icon": "s010.png",
+  "name": "Book of Strength",
+  "hd": "img/items_hd/levelup_11.png",
+  "score": 0.89
+ },
+ {
+  "icon": "s002.png",
+  "name": "Book of Agility",
+  "hd": "img/items_hd/levelup_12.png",
+  "score": 0.91
+ },
+ {
+  "icon": "s021.png",
+  "name": "Book of Intelligence",
+  "hd": "img/items_hd/levelup_13.png",
+  "score": 0.91
+ },
+ {
+  "icon": "s018.png",
+  "name": "Monster Horn",
+  "hd": "img/items_hd/levelup_14.png",
+  "score": 0.95
+ },
+ {
+  "icon": "s013.png",
+  "name": "Book of Experience",
+  "hd": "img/items_hd/levelup_15.png",
+  "score": 0.92
+ },
+ {
+  "icon": "s006.png",
+  "name": "Constant Damage Artifact",
+  "hd": "img/items_hd/levelup_17.png",
+  "score": 0.91
+ },
+ {
+  "icon": "s012.png",
+  "name": "Artifact enhancement",
+  "hd": "img/items_hd/levelup_18.png",
+  "score": 0.9
+ },
+ {
+  "icon": "s015.png",
+  "name": "Wood Chest",
+  "hd": "img/items_hd/levelup_19.png",
+  "score": 0.88
+ },
+ {
+  "icon": "s014.png",
+  "name": "Vial of Damage",
+  "hd": "img/items_hd/levelup_2.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s026.png",
+  "name": "Horn of the elite",
+  "hd": "img/items_hd/levelup_20.png",
+  "score": 0.92
+ },
+ {
+  "icon": "s000.png",
+  "name": "Hero card",
+  "hd": "img/items_hd/levelup_21.png",
+  "score": 0.88
+ },
+ {
+  "icon": "s005.png",
+  "name": "Attribute Stone",
+  "hd": "img/items_hd/levelup_22.png",
+  "score": 0.92
+ },
+ {
+  "icon": "s004.png",
+  "name": "Final Artifact",
+  "hd": "img/items_hd/levelup_23.png",
+  "score": 0.92
+ },
+ {
+  "icon": "s016.png",
+  "name": "Communication card",
+  "hd": "img/items_hd/levelup_24.png",
+  "score": 0.95
+ },
+ {
+  "icon": "s009.png",
+  "name": "Elixir of Absorption",
+  "hd": "img/items_hd/levelup_25.png",
+  "score": 0.88
+ },
+ {
+  "icon": "s020.png",
+  "name": "Essence of Strength",
+  "hd": "img/items_hd/levelup_26.png",
+  "score": 0.93
+ },
+ {
+  "icon": "s017.png",
+  "name": "Essence of Agility",
+  "hd": "img/items_hd/levelup_27.png",
+  "score": 0.93
+ },
+ {
+  "icon": "s001.png",
+  "name": "Essence of Intelligence",
+  "hd": "img/items_hd/levelup_28.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s025.png",
+  "name": "Mana Flask",
+  "hd": "img/items_hd/levelup_3.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s008.png",
+  "name": "Attack Speed Vial",
+  "hd": "img/items_hd/levelup_4.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s007.png",
+  "name": "Vial of Life",
+  "hd": "img/items_hd/levelup_5.png",
+  "score": 0.91
+ },
+ {
+  "icon": "s022.png",
+  "name": "Bag of money",
+  "hd": "img/items_hd/levelup_6.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s023.png",
+  "name": "Book of the Dead",
+  "hd": "img/items_hd/levelup_7.png",
+  "score": 0.87
+ },
+ {
+  "icon": "s019.png",
+  "name": "Potion of Strength",
+  "hd": "img/items_hd/levelup_8.png",
+  "score": 0.94
+ },
+ {
+  "icon": "s011.png",
+  "name": "Agility Potion",
+  "hd": "img/items_hd/levelup_9.png",
+  "score": 0.92
+ }
+]

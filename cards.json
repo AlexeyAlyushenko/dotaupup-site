@@ -1,0 +1,1211 @@
+[
+ {
+  "id": "c000",
+  "set": "ADVENTURERSPACK",
+  "name": "Adventurer's Contract: Elite Hunt",
+  "large": "img/c000_large.png",
+  "small": "img/c000_small.png",
+  "large_icon": "img/c000_large_icon.png",
+  "small_icon": "img/c000_small_icon.png"
+ },
+ {
+  "id": "c001",
+  "set": "ADVENTURERSPACK",
+  "name": "Adventurer's Contract: Leader Hunt",
+  "large": "img/c001_large.png",
+  "small": "img/c001_small.png",
+  "large_icon": "img/c001_large_icon.png",
+  "small_icon": "img/c001_small_icon.png"
+ },
+ {
+  "id": "c002",
+  "set": "ADVENTURERSPACK",
+  "name": "Adventurer's Contract: Regular Hunt",
+  "large": "img/c002_large.png",
+  "small": "img/c002_small.png",
+  "large_icon": "img/c002_large_icon.png",
+  "small_icon": "img/c002_small_icon.png"
+ },
+ {
+  "id": "c003",
+  "set": "AGILITYFORMULA",
+  "name": "Agility Formula: Shadow",
+  "large": "img/c003_large.png",
+  "small": "img/c003_small.png",
+  "large_icon": "img/c003_large_icon.png",
+  "small_icon": "img/c003_small_icon.png"
+ },
+ {
+  "id": "c004",
+  "set": "AGILITYFORMULA",
+  "name": "Agility Formula: Silk",
+  "large": "img/c004_large.png",
+  "small": "img/c004_small.png",
+  "large_icon": "img/c004_large_icon.png",
+  "small_icon": "img/c004_small_icon.png"
+ },
+ {
+  "id": "c005",
+  "set": "AGILITYFORMULA",
+  "name": "Agility Formula: Wind",
+  "large": "img/c005_large.png",
+  "small": "img/c005_small.png",
+  "large_icon": "img/c005_large_icon.png",
+  "small_icon": "img/c005_small_icon.png"
+ },
+ {
+  "id": "c006",
+  "set": "ARMOROFRETRIBUTION",
+  "name": "Bastion of Thorns",
+  "large": "img/c006_large.png",
+  "small": "img/c006_small.png",
+  "large_icon": "img/c006_large_icon.png",
+  "small_icon": "img/c006_small_icon.png"
+ },
+ {
+  "id": "c007",
+  "set": "ARMOROFRETRIBUTION",
+  "name": "Executioner's Helm",
+  "large": "img/c007_large.png",
+  "small": "img/c007_small.png",
+  "large_icon": "img/c007_large_icon.png",
+  "small_icon": "img/c007_small_icon.png"
+ },
+ {
+  "id": "c008",
+  "set": "ARMOROFRETRIBUTION",
+  "name": "Martyr's Collar",
+  "large": "img/c008_large.png",
+  "small": "img/c008_small.png",
+  "large_icon": "img/c008_large_icon.png",
+  "small_icon": "img/c008_small_icon.png"
+ },
+ {
+  "id": "c009",
+  "set": "ARMOROFRETRIBUTION",
+  "name": "Spiked Breastplate",
+  "large": "img/c009_large.png",
+  "small": "img/c009_small.png",
+  "large_icon": "img/c009_large_icon.png",
+  "small_icon": "img/c009_small_icon.png"
+ },
+ {
+  "id": "c010",
+  "set": "CHAINREACTION",
+  "name": "Arc splitter",
+  "large": "img/c010_large.png",
+  "small": "img/c010_small.png",
+  "large_icon": "img/c010_large_icon.png",
+  "small_icon": "img/c010_small_icon.png"
+ },
+ {
+  "id": "c011",
+  "set": "CHAINREACTION",
+  "name": "Discharge amplifier",
+  "large": "img/c011_large.png",
+  "small": "img/c011_small.png",
+  "large_icon": "img/c011_large_icon.png",
+  "small_icon": "img/c011_small_icon.png"
+ },
+ {
+  "id": "c012",
+  "set": "CHAINREACTION",
+  "name": "Spark core",
+  "large": "img/c012_large.png",
+  "small": "img/c012_small.png",
+  "large_icon": "img/c012_large_icon.png",
+  "small_icon": "img/c012_small_icon.png"
+ },
+ {
+  "id": "c013",
+  "set": "CULTIVATINGAGILITY",
+  "name": "Converting Intelligence to Agility",
+  "large": "img/c013_large.png",
+  "small": "img/c013_small.png",
+  "large_icon": "img/c013_large_icon.png",
+  "small_icon": "img/c013_small_icon.png"
+ },
+ {
+  "id": "c014",
+  "set": "CULTIVATINGAGILITY",
+  "name": "Converting Strength to Agility",
+  "large": "img/c014_large.png",
+  "small": "img/c014_small.png",
+  "large_icon": "img/c014_large_icon.png",
+  "small_icon": "img/c014_small_icon.png"
+ },
+ {
+  "id": "c015",
+  "set": "CULTIVATINGINTELLIGENCE",
+  "name": "Converting Agility to Intelligence",
+  "large": "img/c015_large.png",
+  "small": "img/c015_small.png",
+  "large_icon": "img/c015_large_icon.png",
+  "small_icon": "img/c015_small_icon.png"
+ },
+ {
+  "id": "c016",
+  "set": "CULTIVATINGINTELLIGENCE",
+  "name": "Converting strength into intelligen",
+  "large": "img/c016_large.png",
+  "small": "img/c016_small.png",
+  "large_icon": "img/c016_large_icon.png",
+  "small_icon": "img/c016_small_icon.png"
+ },
+ {
+  "id": "c017",
+  "set": "CULTIVATINGSTRENGTH",
+  "name": "Converting Agility to Strength",
+  "large": "img/c017_large.png",
+  "small": "img/c017_small.png",
+  "large_icon": "img/c017_large_icon.png",
+  "small_icon": "img/c017_small_icon.png"
+ },
+ {
+  "id": "c018",
+  "set": "CULTIVATINGSTRENGTH",
+  "name": "Transforming Intelligence into Stren",
+  "large": "img/c018_large.png",
+  "small": "img/c018_small.png",
+  "large_icon": "img/c018_large_icon.png",
+  "small_icon": "img/c018_small_icon.png"
+ },
+ {
+  "id": "c019",
+  "set": "CUPSOFIMMORTALITY",
+  "name": "Bowl of Man",
+  "large": "img/c019_large.png",
+  "small": "img/c019_small.png",
+  "large_icon": "img/c019_large_icon.png",
+  "small_icon": "img/c019_small_icon.png"
+ },
+ {
+  "id": "c020",
+  "set": "CUPSOFIMMORTALITY",
+  "name": "Bowl of the Earth",
+  "large": "img/c020_large.png",
+  "small": "img/c020_small.png",
+  "large_icon": "img/c020_large_icon.png",
+  "small_icon": "img/c020_small_icon.png"
+ },
+ {
+  "id": "c021",
+  "set": "CUPSOFIMMORTALITY",
+  "name": "Cup of Heaven",
+  "large": "img/c021_large.png",
+  "small": "img/c021_small.png",
+  "large_icon": "img/c021_large_icon.png",
+  "small_icon": "img/c021_small_icon.png"
+ },
+ {
+  "id": "c022",
+  "set": "ENSEMBLELARGO",
+  "name": "Little Frog Largo: Lead Singer",
+  "large": "img/c022_large.png",
+  "small": "img/c022_small.png",
+  "large_icon": "img/c022_large_icon.png",
+  "small_icon": "img/c022_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c023",
+  "set": "FATALBLOW",
+  "name": "Liu Kane — Dragon Kick",
+  "large": "img/c023_large.png",
+  "small": "img/c023_small.png",
+  "large_icon": "img/c023_large_icon.png",
+  "small_icon": "img/c023_small_icon.png"
+ },
+ {
+  "id": "c024",
+  "set": "FATALBLOW",
+  "name": "Raiden — Thunder Strike",
+  "large": "img/c024_large.png",
+  "small": "img/c024_small.png",
+  "large_icon": "img/c024_large_icon.png",
+  "small_icon": "img/c024_small_icon.png"
+ },
+ {
+  "id": "c025",
+  "set": "FATALBLOW",
+  "name": "Shao Kahn — Wrath Hammer",
+  "large": "img/c025_large.png",
+  "small": "img/c025_small.png",
+  "large_icon": "img/c025_large_icon.png",
+  "small_icon": "img/c025_small_icon.png"
+ },
+ {
+  "id": "c026",
+  "set": "FORBIDDENRANK",
+  "name": "Chronosphere Shard",
+  "large": "img/c026_large.png",
+  "small": "img/c026_small.png",
+  "large_icon": "img/c026_large_icon.png",
+  "small_icon": "img/c026_small_icon.png"
+ },
+ {
+  "id": "c027",
+  "set": "FORBIDDENRANK",
+  "name": "Demonic Contract",
+  "large": "img/c027_large.png",
+  "small": "img/c027_small.png",
+  "large_icon": "img/c027_large_icon.png",
+  "small_icon": "img/c027_small_icon.png"
+ },
+ {
+  "id": "c028",
+  "set": "FORBIDDENRANK",
+  "name": "Philosopher's Stone",
+  "large": "img/c028_large.png",
+  "small": "img/c028_small.png",
+  "large_icon": "img/c028_large_icon.png",
+  "small_icon": "img/c028_small_icon.png"
+ },
+ {
+  "id": "c029",
+  "set": "FORMULAOFINTELLIGENCE",
+  "name": "Formula of Intelligence: Stardust",
+  "large": "img/c029_large.png",
+  "small": "img/c029_small.png",
+  "large_icon": "img/c029_large_icon.png",
+  "small_icon": "img/c029_small_icon.png"
+ },
+ {
+  "id": "c030",
+  "set": "FORMULAOFINTELLIGENCE",
+  "name": "Intelligence Formula: Crystal",
+  "large": "img/c030_large.png",
+  "small": "img/c030_small.png",
+  "large_icon": "img/c030_large_icon.png",
+  "small_icon": "img/c030_small_icon.png"
+ },
+ {
+  "id": "c031",
+  "set": "FORMULAOFINTELLIGENCE",
+  "name": "Intelligence Formula: Ink",
+  "large": "img/c031_large.png",
+  "small": "img/c031_small.png",
+  "large_icon": "img/c031_large_icon.png",
+  "small_icon": "img/c031_small_icon.png"
+ },
+ {
+  "id": "c032",
+  "set": "FORMULAOFSTRENGTH",
+  "name": "Strength Formula: Blood",
+  "large": "img/c032_large.png",
+  "small": "img/c032_small.png",
+  "large_icon": "img/c032_large_icon.png",
+  "small_icon": "img/c032_small_icon.png"
+ },
+ {
+  "id": "c033",
+  "set": "FORMULAOFSTRENGTH",
+  "name": "Strength Formula: Bone",
+  "large": "img/c033_large.png",
+  "small": "img/c033_small.png",
+  "large_icon": "img/c033_large_icon.png",
+  "small_icon": "img/c033_small_icon.png"
+ },
+ {
+  "id": "c034",
+  "set": "FORMULAOFSTRENGTH",
+  "name": "Strength Formula: Iron",
+  "large": "img/c034_large.png",
+  "small": "img/c034_small.png",
+  "large_icon": "img/c034_large_icon.png",
+  "small_icon": "img/c034_small_icon.png"
+ },
+ {
+  "id": "c035",
+  "set": "GOLDENAPPLES",
+  "name": "Golden Apple of Fury",
+  "large": "img/c035_large.png",
+  "small": "img/c035_small.png",
+  "large_icon": "img/c035_large_icon.png",
+  "small_icon": "img/c035_small_icon.png"
+ },
+ {
+  "id": "c036",
+  "set": "GOLDENAPPLES",
+  "name": "Golden Apple of Regeneration",
+  "large": "img/c036_large.png",
+  "small": "img/c036_small.png",
+  "large_icon": "img/c036_large_icon.png",
+  "small_icon": "img/c036_small_icon.png"
+ },
+ {
+  "id": "c037",
+  "set": "GOLDENAPPLES",
+  "name": "Titan's Golden Apple",
+  "large": "img/c037_large.png",
+  "small": "img/c037_small.png",
+  "large_icon": "img/c037_large_icon.png",
+  "small_icon": "img/c037_small_icon.png"
+ },
+ {
+  "id": "c038",
+  "set": "GROVEOFREBIRTH",
+  "name": "Bean of the New Path |",
+  "large": "img/c038_large.png",
+  "small": "img/c038_small.png",
+  "large_icon": "img/c038_large_icon.png",
+  "small_icon": "img/c038_small_icon.png"
+ },
+ {
+  "id": "c039",
+  "set": "GROVEOFREBIRTH",
+  "name": "Fruit of the Living Force",
+  "large": "img/c039_large.png",
+  "small": "img/c039_small.png",
+  "large_icon": "img/c039_large_icon.png",
+  "small_icon": "img/c039_small_icon.png"
+ },
+ {
+  "id": "c040",
+  "set": "GROVEOFREBIRTH",
+  "name": "Lotus of Rebirth",
+  "large": "img/c040_large.png",
+  "small": "img/c040_small.png",
+  "large_icon": "img/c040_large_icon.png",
+  "small_icon": "img/c040_small_icon.png"
+ },
+ {
+  "id": "c041",
+  "set": "GROVEOFREBIRTH",
+  "name": "Stone Heart Seed",
+  "large": "img/c041_large.png",
+  "small": "img/c041_small.png",
+  "large_icon": "img/c041_large_icon.png",
+  "small_icon": "img/c041_small_icon.png"
+ },
+ {
+  "id": "c042",
+  "set": "HEAVENLYEXECUTION",
+  "name": "Execution Seal",
+  "large": "img/c042_large.png",
+  "small": "img/c042_small.png",
+  "large_icon": "img/c042_large_icon.png",
+  "small_icon": "img/c042_small_icon.png"
+ },
+ {
+  "id": "c043",
+  "set": "HEAVENLYEXECUTION",
+  "name": "Heavenly Decree",
+  "large": "img/c043_large.png",
+  "small": "img/c043_small.png",
+  "large_icon": "img/c043_large_icon.png",
+  "small_icon": "img/c043_small_icon.png"
+ },
+ {
+  "id": "c044",
+  "set": "LASTCOIN",
+  "name": "Bent Coin",
+  "large": "img/c044_large.png",
+  "small": "img/c044_small.png",
+  "large_icon": "img/c044_large_icon.png",
+  "small_icon": "img/c044_small_icon.png"
+ },
+ {
+  "id": "c045",
+  "set": "LASTCOIN",
+  "name": "Empty Purse",
+  "large": "img/c045_large.png",
+  "small": "img/c045_small.png",
+  "large_icon": "img/c045_large_icon.png",
+  "small_icon": "img/c045_small_icon.png"
+ },
+ {
+  "id": "c046",
+  "set": "LIGHTGRIP",
+  "name": "Light Grip",
+  "large": "img/c046_large.png",
+  "small": "img/c046_small.png",
+  "large_icon": "img/c046_large_icon.png",
+  "small_icon": "img/c046_small_icon.png"
+ },
+ {
+  "id": "c047",
+  "set": "LIGHTGRIP",
+  "name": "Tracker Belt",
+  "large": "img/c047_large.png",
+  "small": "img/c047_small.png",
+  "large_icon": "img/c047_large_icon.png",
+  "small_icon": "img/c047_small_icon.png"
+ },
+ {
+  "id": "c048",
+  "set": "LORDOFROSES",
+  "name": "Blue rose",
+  "large": "img/c048_large.png",
+  "small": "img/c048_small.png",
+  "large_icon": "img/c048_large_icon.png",
+  "small_icon": "img/c048_small_icon.png"
+ },
+ {
+  "id": "c049",
+  "set": "LORDOFROSES",
+  "name": "Red rose",
+  "large": "img/c049_large.png",
+  "small": "img/c049_small.png",
+  "large_icon": "img/c049_large_icon.png",
+  "small_icon": "img/c049_small_icon.png"
+ },
+ {
+  "id": "c050",
+  "set": "LORDOFROSES",
+  "name": "Yellow rose",
+  "large": "img/c050_large.png",
+  "small": "img/c050_small.png",
+  "large_icon": "img/c050_large_icon.png",
+  "small_icon": "img/c050_small_icon.png"
+ },
+ {
+  "id": "c051",
+  "set": "MANADIFFUSER",
+  "name": "Blue Prism",
+  "large": "img/c051_large.png",
+  "small": "img/c051_small.png",
+  "large_icon": "img/c051_large_icon.png",
+  "small_icon": "img/c051_small_icon.png"
+ },
+ {
+  "id": "c052",
+  "set": "MANADIFFUSER",
+  "name": "Cloudy Glass",
+  "large": "img/c052_large.png",
+  "small": "img/c052_small.png",
+  "large_icon": "img/c052_large_icon.png",
+  "small_icon": "img/c052_small_icon.png"
+ },
+ {
+  "id": "c053",
+  "set": "MANADIFFUSER",
+  "name": "Split Lens",
+  "large": "img/c053_large.png",
+  "small": "img/c053_small.png",
+  "large_icon": "img/c053_large_icon.png",
+  "small_icon": "img/c053_small_icon.png"
+ },
+ {
+  "id": "c054",
+  "set": "NETHERITESET",
+  "name": "Netherite Armor",
+  "large": "img/c054_large.png",
+  "small": "img/c054_small.png",
+  "large_icon": "img/c054_large_icon.png",
+  "small_icon": "img/c054_small_icon.png"
+ },
+ {
+  "id": "c055",
+  "set": "NETHERITESET",
+  "name": "Netherite Helm",
+  "large": "img/c055_large.png",
+  "small": "img/c055_small.png",
+  "large_icon": "img/c055_large_icon.png",
+  "small_icon": "img/c055_small_icon.png"
+ },
+ {
+  "id": "c056",
+  "set": "NETHERITESET",
+  "name": "Netherite Shield",
+  "large": "img/c056_large.png",
+  "small": "img/c056_small.png",
+  "large_icon": "img/c056_large_icon.png",
+  "small_icon": "img/c056_small_icon.png"
+ },
+ {
+  "id": "c057",
+  "set": "NIGHTMARKET",
+  "name": "Beijing pancake",
+  "large": "img/c057_large.png",
+  "small": "img/c057_small.png",
+  "large_icon": "img/c057_large_icon.png",
+  "small_icon": "img/c057_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c058",
+  "set": "NIGHTMARKET",
+  "name": "Caramel berries",
+  "large": "img/c058_large.png",
+  "small": "img/c058_small.png",
+  "large_icon": "img/c058_large_icon.png",
+  "small_icon": "img/c058_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c059",
+  "set": "NIGHTMARKET",
+  "name": "Mooncake",
+  "large": "img/c059_large.png",
+  "small": "img/c059_small.png",
+  "large_icon": "img/c059_large_icon.png",
+  "small_icon": "img/c059_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c060",
+  "set": "NIGHTMARKET",
+  "name": "Steamed buns",
+  "large": "img/c060_large.png",
+  "small": "img/c060_small.png",
+  "large_icon": "img/c060_large_icon.png",
+  "small_icon": "img/c060_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c061",
+  "set": "NIGHTMARKET",
+  "name": "Street kebabs",
+  "large": "img/c061_large.png",
+  "small": "img/c061_small.png",
+  "large_icon": "img/c061_large_icon.png",
+  "small_icon": "img/c061_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c062",
+  "set": "ONEPUNCHMAN",
+  "name": "Bald",
+  "large": "img/c062_large.png",
+  "small": "img/c062_small.png",
+  "large_icon": "img/c062_large_icon.png",
+  "small_icon": "img/c062_small_icon.png"
+ },
+ {
+  "id": "c063",
+  "set": "ONEPUNCHMAN",
+  "name": "Red gloves",
+  "large": "img/c063_large.png",
+  "small": "img/c063_small.png",
+  "large_icon": "img/c063_large_icon.png",
+  "small_icon": "img/c063_small_icon.png"
+ },
+ {
+  "id": "c064",
+  "set": "ONEPUNCHMAN",
+  "name": "White cloak",
+  "large": "img/c064_large.png",
+  "small": "img/c064_small.png",
+  "large_icon": "img/c064_large_icon.png",
+  "small_icon": "img/c064_small_icon.png"
+ },
+ {
+  "id": "c065",
+  "set": "ONEPUNCHMAN",
+  "name": "Yellow suit",
+  "large": "img/c065_large.png",
+  "small": "img/c065_small.png",
+  "large_icon": "img/c065_large_icon.png",
+  "small_icon": "img/c065_small_icon.png"
+ },
+ {
+  "id": "c066",
+  "set": "PACKINSTINCT",
+  "name": "Leader's Track",
+  "large": "img/c066_large.png",
+  "small": "img/c066_small.png",
+  "large_icon": "img/c066_large_icon.png",
+  "small_icon": "img/c066_small_icon.png"
+ },
+ {
+  "id": "c067",
+  "set": "PACKINSTINCT",
+  "name": "Pack Scent",
+  "large": "img/c067_large.png",
+  "small": "img/c067_small.png",
+  "large_icon": "img/c067_large_icon.png",
+  "small_icon": "img/c067_small_icon.png"
+ },
+ {
+  "id": "c068",
+  "set": "PACKINSTINCT",
+  "name": "Rough Collar",
+  "large": "img/c068_large.png",
+  "small": "img/c068_small.png",
+  "large_icon": "img/c068_large_icon.png",
+  "small_icon": "img/c068_small_icon.png"
+ },
+ {
+  "id": "c069",
+  "set": "RAINOFARROWS",
+  "name": "Quiver of Destruction",
+  "large": "img/c069_large.png",
+  "small": "img/c069_small.png",
+  "large_icon": "img/c069_large_icon.png",
+  "small_icon": "img/c069_small_icon.png"
+ },
+ {
+  "id": "c070",
+  "set": "RAINOFARROWS",
+  "name": "Quiver of Squall",
+  "large": "img/c070_large.png",
+  "small": "img/c070_small.png",
+  "large_icon": "img/c070_large_icon.png",
+  "small_icon": "img/c070_small_icon.png"
+ },
+ {
+  "id": "c071",
+  "set": "REDENVELOPES",
+  "name": "Envelope of Wealth",
+  "large": "img/c071_large.png",
+  "small": "img/c071_small.png",
+  "large_icon": "img/c071_large_icon.png",
+  "small_icon": "img/c071_small_icon.png"
+ },
+ {
+  "id": "c072",
+  "set": "REDENVELOPES",
+  "name": "Envelope of Wisdom",
+  "large": "img/c072_large.png",
+  "small": "img/c072_small.png",
+  "large_icon": "img/c072_large_icon.png",
+  "small_icon": "img/c072_small_icon.png"
+ },
+ {
+  "id": "c073",
+  "set": "REDENVELOPES",
+  "name": "Envelope of merit",
+  "large": "img/c073_large.png",
+  "small": "img/c073_small.png",
+  "large_icon": "img/c073_large_icon.png",
+  "small_icon": "img/c073_small_icon.png"
+ },
+ {
+  "id": "c074",
+  "set": "REGALIAOFTHEHEAVENLYGENERAL",
+  "name": "Armor of Justice",
+  "large": "img/c074_large.png",
+  "small": "img/c074_small.png",
+  "large_icon": "img/c074_large_icon.png",
+  "small_icon": "img/c074_small_icon.png"
+ },
+ {
+  "id": "c075",
+  "set": "REGALIAOFTHEHEAVENLYGENERAL",
+  "name": "Banner of the Unyielding",
+  "large": "img/c075_large.png",
+  "small": "img/c075_small.png",
+  "large_icon": "img/c075_large_icon.png",
+  "small_icon": "img/c075_small_icon.png"
+ },
+ {
+  "id": "c076",
+  "set": "REGALIAOFTHEHEAVENLYGENERAL",
+  "name": "Seal of Fortitude",
+  "large": "img/c076_large.png",
+  "small": "img/c076_small.png",
+  "large_icon": "img/c076_large_icon.png",
+  "small_icon": "img/c076_small_icon.png"
+ },
+ {
+  "id": "c077",
+  "set": "REGALIAOFTHEHEAVENLYGENERAL",
+  "name": "Warlord's Heart",
+  "large": "img/c077_large.png",
+  "small": "img/c077_small.png",
+  "large_icon": "img/c077_large_icon.png",
+  "small_icon": "img/c077_small_icon.png"
+ },
+ {
+  "id": "c078",
+  "set": "ROYALGRIMOIRE",
+  "name": "Aim Page",
+  "large": "img/c078_large.png",
+  "small": "img/c078_small.png",
+  "large_icon": "img/c078_large_icon.png",
+  "small_icon": "img/c078_small_icon.png"
+ },
+ {
+  "id": "c079",
+  "set": "ROYALGRIMOIRE",
+  "name": "Erudition Page",
+  "large": "img/c079_large.png",
+  "small": "img/c079_small.png",
+  "large_icon": "img/c079_large_icon.png",
+  "small_icon": "img/c079_small_icon.png"
+ },
+ {
+  "id": "c080",
+  "set": "ROYALGRIMOIRE",
+  "name": "Resonance Page",
+  "large": "img/c080_large.png",
+  "small": "img/c080_small.png",
+  "large_icon": "img/c080_large_icon.png",
+  "small_icon": "img/c080_small_icon.png"
+ },
+ {
+  "id": "c081",
+  "set": "ROYALGRIMOIRE",
+  "name": "Spellcaster Page",
+  "large": "img/c081_large.png",
+  "small": "img/c081_small.png",
+  "large_icon": "img/c081_large_icon.png",
+  "small_icon": "img/c081_small_icon.png"
+ },
+ {
+  "id": "c082",
+  "set": "SHESSPECIAL",
+  "name": "Clown mask",
+  "large": "img/c082_large.png",
+  "small": "img/c082_small.png",
+  "large_icon": "img/c082_large_icon.png",
+  "small_icon": "img/c082_small_icon.png"
+ },
+ {
+  "id": "c083",
+  "set": "SHESSPECIAL",
+  "name": "Clown nose",
+  "large": "img/c083_large.png",
+  "small": "img/c083_small.png",
+  "large_icon": "img/c083_large_icon.png",
+  "small_icon": "img/c083_small_icon.png"
+ },
+ {
+  "id": "c084",
+  "set": "SKYARCHERSET",
+  "name": "Falcon's Gaze",
+  "large": "img/c084_large.png",
+  "small": "img/c084_small.png",
+  "large_icon": "img/c084_large_icon.png",
+  "small_icon": "img/c084_small_icon.png"
+ },
+ {
+  "id": "c085",
+  "set": "SKYARCHERSET",
+  "name": "Heavenly Mark",
+  "large": "img/c085_large.png",
+  "small": "img/c085_small.png",
+  "large_icon": "img/c085_large_icon.png",
+  "small_icon": "img/c085_small_icon.png"
+ },
+ {
+  "id": "c086",
+  "set": "SKYARCHERSET",
+  "name": "Shower of Arrows",
+  "large": "img/c086_large.png",
+  "small": "img/c086_small.png",
+  "large_icon": "img/c086_large_icon.png",
+  "small_icon": "img/c086_small_icon.png"
+ },
+ {
+  "id": "c087",
+  "set": "SKYARCHERSET",
+  "name": "Singing Bowstring",
+  "large": "img/c087_large.png",
+  "small": "img/c087_small.png",
+  "large_icon": "img/c087_large_icon.png",
+  "small_icon": "img/c087_small_icon.png"
+ },
+ {
+  "id": "c088",
+  "set": "SPIRITSET",
+  "name": "Electric Spirit",
+  "large": "img/c088_large.png",
+  "small": "img/c088_small.png",
+  "large_icon": "img/c088_large_icon.png",
+  "small_icon": "img/c088_small_icon.png"
+ },
+ {
+  "id": "c089",
+  "set": "SPIRITSET",
+  "name": "Fire Spirit",
+  "large": "img/c089_large.png",
+  "small": "img/c089_small.png",
+  "large_icon": "img/c089_large_icon.png",
+  "small_icon": "img/c089_small_icon.png"
+ },
+ {
+  "id": "c090",
+  "set": "SPIRITSET",
+  "name": "Healing Spirit",
+  "large": "img/c090_large.png",
+  "small": "img/c090_small.png",
+  "large_icon": "img/c090_large_icon.png",
+  "small_icon": "img/c090_small_icon.png"
+ },
+ {
+  "id": "c091",
+  "set": "SPIRITSET",
+  "name": "Ice Spirit",
+  "large": "img/c091_large.png",
+  "small": "img/c091_small.png",
+  "large_icon": "img/c091_large_icon.png",
+  "small_icon": "img/c091_small_icon.png"
+ },
+ {
+  "id": "c092",
+  "set": "SSSCOMBO",
+  "name": "Style: Gunslinger",
+  "large": "img/c092_large.png",
+  "small": "img/c092_small.png",
+  "large_icon": "img/c092_large_icon.png",
+  "small_icon": "img/c092_small_icon.png"
+ },
+ {
+  "id": "c093",
+  "set": "SSSCOMBO",
+  "name": "Style: Swordmaster",
+  "large": "img/c093_large.png",
+  "small": "img/c093_small.png",
+  "large_icon": "img/c093_large_icon.png",
+  "small_icon": "img/c093_small_icon.png"
+ },
+ {
+  "id": "c094",
+  "set": "SSSCOMBO",
+  "name": "Style: Trickster",
+  "large": "img/c094_large.png",
+  "small": "img/c094_small.png",
+  "large_icon": "img/c094_large_icon.png",
+  "small_icon": "img/c094_small_icon.png"
+ },
+ {
+  "id": "c095",
+  "set": "STARTERPACK",
+  "name": "Battle Bracer",
+  "large": "img/c095_large.png",
+  "small": null,
+  "large_icon": "img/c095_large_icon.png",
+  "small_icon": null
+ },
+ {
+  "id": "c096",
+  "set": "STARTERPACK",
+  "name": "Ghost mask",
+  "large": "img/c096_large.png",
+  "small": null,
+  "large_icon": "img/c096_large_icon.png",
+  "small_icon": null
+ },
+ {
+  "id": "c097",
+  "set": "STARTERPACK",
+  "name": "Talisman of Zero",
+  "large": "img/c097_large.png",
+  "small": null,
+  "large_icon": "img/c097_large_icon.png",
+  "small_icon": null
+ },
+ {
+  "id": "c098",
+  "set": "STRONGDEFEAT",
+  "name": "8x scope",
+  "large": "img/c098_large.png",
+  "small": "img/c098_small.png",
+  "large_icon": "img/c098_large_icon.png",
+  "small_icon": "img/c098_small_icon.png"
+ },
+ {
+  "id": "c099",
+  "set": "STRONGDEFEAT",
+  "name": "Kar98k",
+  "large": "img/c099_large.png",
+  "small": "img/c099_small.png",
+  "large_icon": "img/c099_large_icon.png",
+  "small_icon": "img/c099_small_icon.png"
+ },
+ {
+  "id": "c100",
+  "set": "SURVIVORPACK",
+  "name": "Frying pan",
+  "large": "img/c100_large.png",
+  "small": "img/c100_small.png",
+  "large_icon": "img/c100_large_icon.png",
+  "small_icon": "img/c100_small_icon.png"
+ },
+ {
+  "id": "c101",
+  "set": "SURVIVORPACK",
+  "name": "Level 3 Helmet",
+  "large": "img/c101_large.png",
+  "small": "img/c101_small.png",
+  "large_icon": "img/c101_large_icon.png",
+  "small_icon": "img/c101_small_icon.png"
+ },
+ {
+  "id": "c102",
+  "set": "THEMYSTERYOFTHEVORTEX",
+  "name": "Fan of Heavenly Light",
+  "large": "img/c102_large.png",
+  "small": "img/c102_small.png",
+  "large_icon": "img/c102_large_icon.png",
+  "small_icon": "img/c102_small_icon.png"
+ },
+ {
+  "id": "c103",
+  "set": "THEMYSTERYOFTHEVORTEX",
+  "name": "Fan of the Punishing Moon",
+  "large": "img/c103_large.png",
+  "small": "img/c103_small.png",
+  "large_icon": "img/c103_large_icon.png",
+  "small_icon": "img/c103_small_icon.png"
+ },
+ {
+  "id": "c104",
+  "set": "THEMYSTERYOFTHEVORTEX",
+  "name": "Quick Dance Fan",
+  "large": "img/c104_large.png",
+  "small": "img/c104_small.png",
+  "large_icon": "img/c104_large_icon.png",
+  "small_icon": "img/c104_small_icon.png"
+ },
+ {
+  "id": "c105",
+  "set": "THEMYSTERYOFTHEVORTEX",
+  "name": "Typhoon Fan",
+  "large": "img/c105_large.png",
+  "small": "img/c105_small.png",
+  "large_icon": "img/c105_large_icon.png",
+  "small_icon": "img/c105_small_icon.png"
+ },
+ {
+  "id": "c106",
+  "set": "THEPOWEROFFAMILY",
+  "name": "Brian's Cross",
+  "large": "img/c106_large.png",
+  "small": "img/c106_small.png",
+  "large_icon": "img/c106_large_icon.png",
+  "small_icon": "img/c106_small_icon.png"
+ },
+ {
+  "id": "c107",
+  "set": "THEPOWEROFFAMILY",
+  "name": "Dominic's Cross",
+  "large": "img/c107_large.png",
+  "small": "img/c107_small.png",
+  "large_icon": "img/c107_large_icon.png",
+  "small_icon": "img/c107_small_icon.png"
+ },
+ {
+  "id": "c108",
+  "set": "THEPOWEROFFAMILY",
+  "name": "Letty's cross",
+  "large": "img/c108_large.png",
+  "small": "img/c108_small.png",
+  "large_icon": "img/c108_large_icon.png",
+  "small_icon": "img/c108_small_icon.png"
+ },
+ {
+  "id": "c109",
+  "set": "TOADSOFTHEFOURBLESSINGS",
+  "name": "Prosperity Toad",
+  "large": "img/c109_large.png",
+  "small": "img/c109_small.png",
+  "large_icon": "img/c109_large_icon.png",
+  "small_icon": "img/c109_small_icon.png"
+ },
+ {
+  "id": "c110",
+  "set": "TOADSOFTHEFOURBLESSINGS",
+  "name": "Toad of Plenty",
+  "large": "img/c110_large.png",
+  "small": "img/c110_small.png",
+  "large_icon": "img/c110_large_icon.png",
+  "small_icon": "img/c110_small_icon.png"
+ },
+ {
+  "id": "c111",
+  "set": "TOADSOFTHEFOURBLESSINGS",
+  "name": "Toad of Valor",
+  "large": "img/c111_large.png",
+  "small": "img/c111_small.png",
+  "large_icon": "img/c111_large_icon.png",
+  "small_icon": "img/c111_small_icon.png"
+ },
+ {
+  "id": "c112",
+  "set": "TOADSOFTHEFOURBLESSINGS",
+  "name": "Toad of mysticism",
+  "large": "img/c112_large.png",
+  "small": "img/c112_small.png",
+  "large_icon": "img/c112_large_icon.png",
+  "small_icon": "img/c112_small_icon.png"
+ },
+ {
+  "id": "c113",
+  "set": "XRAY",
+  "name": "Scorpion — Kunai Spear",
+  "large": "img/c113_large.png",
+  "small": "img/c113_small.png",
+  "large_icon": "img/c113_large_icon.png",
+  "small_icon": "img/c113_small_icon.png"
+ },
+ {
+  "id": "c114",
+  "set": "XRAY",
+  "name": "Sub-Zero — Ice Spike",
+  "large": "img/c114_large.png",
+  "small": "img/c114_small.png",
+  "large_icon": "img/c114_large_icon.png",
+  "small_icon": "img/c114_small_icon.png"
+ },
+ {
+  "id": "c115",
+  "set": "FLOWINGSHAPESET",
+  "name": "Perfect adaptation",
+  "large": "",
+  "small": "img/c115_small.png",
+  "large_icon": "",
+  "small_icon": "img/c115_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c116",
+  "set": "TRUEKING",
+  "name": "Hell's Crown Blade",
+  "large": "",
+  "small": "img/c116_small.png",
+  "large_icon": "",
+  "small_icon": "img/c116_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c117",
+  "set": "LADYOFTHEFLAME",
+  "name": "Robe of Crimson Heat",
+  "large": "",
+  "small": "img/c117_small.png",
+  "large_icon": "",
+  "small_icon": "img/c117_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c118",
+  "set": "TRUEKING",
+  "name": "Plate of the Immortal Oath",
+  "large": "",
+  "small": "img/c118_small.png",
+  "large_icon": "",
+  "small_icon": "img/c118_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c119",
+  "set": "LADYOFTHEFLAME",
+  "name": "Pyromancer's Circlet",
+  "large": "",
+  "small": "img/c119_small.png",
+  "large_icon": "",
+  "small_icon": "img/c119_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c120",
+  "set": "FLOWINGSHAPESET",
+  "name": "Breaking Stream",
+  "large": "",
+  "small": "img/c120_small.png",
+  "large_icon": "",
+  "small_icon": "img/c120_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c121",
+  "set": "TRUEKING",
+  "name": "Crown of the Unyielding Throne",
+  "large": "",
+  "small": "img/c121_small.png",
+  "large_icon": "",
+  "small_icon": "img/c121_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c122",
+  "set": "LADYOFTHEFLAME",
+  "name": "Scepter of Scorched Light",
+  "large": "",
+  "small": "img/c122_small.png",
+  "large_icon": "",
+  "small_icon": "img/c122_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c123",
+  "set": "TRUEKING",
+  "name": "Seal of the Bone Legion",
+  "large": "",
+  "small": "img/c123_small.png",
+  "large_icon": "",
+  "small_icon": "img/c123_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c124",
+  "set": "FLOWINGSHAPESET",
+  "name": "Water mass",
+  "large": "",
+  "small": "img/c124_small.png",
+  "large_icon": "",
+  "small_icon": "img/c124_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c125",
+  "set": "ARCHMAGEKIT",
+  "name": "Robe of the Dark Arts",
+  "large": "",
+  "small": "img/c125_small.png",
+  "large_icon": "",
+  "small_icon": "img/c125_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c126",
+  "set": "ARCHMAGEKIT",
+  "name": "Bracers of the Forbidden Formula",
+  "large": "",
+  "small": "img/c126_small.png",
+  "large_icon": "",
+  "small_icon": "img/c126_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c127",
+  "set": "ARCHMAGEKIT",
+  "name": "Archmage's Sphere EMP",
+  "large": "",
+  "small": "img/c127_small.png",
+  "large_icon": "",
+  "small_icon": "img/c127_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c128",
+  "set": "ARCHMAGEKIT",
+  "name": "Crown of the Shattered Academy",
+  "large": "",
+  "small": "img/c128_small.png",
+  "large_icon": "",
+  "small_icon": "img/c128_small_icon.png",
+  "kill_absorb": true
+ },
+ {
+  "id": "c129",
+  "set": "PINBALL",
+  "name": "Multiball",
+  "large": "img/c129_large.png",
+  "small": "img/c129_small.png",
+  "large_icon": "img/c129_large_icon.png",
+  "small_icon": "img/c129_small_icon.png"
+ },
+ {
+  "id": "c130",
+  "set": "PINBALL",
+  "name": "Bumper",
+  "large": "img/c130_large.png",
+  "small": "img/c130_small.png",
+  "large_icon": "img/c130_large_icon.png",
+  "small_icon": "img/c130_small_icon.png"
+ },
+ {
+  "id": "c131",
+  "set": "GOLDENBURDEN",
+  "name": "Golden Burden",
+  "large": "img/c131_large.png",
+  "small": "img/c131_small.png",
+  "large_icon": "img/c131_large_icon.png",
+  "small_icon": "img/c131_small_icon.png",
+  "kill_absorb": true
+ }
+]
