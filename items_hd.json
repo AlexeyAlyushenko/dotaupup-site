@@ -160,5 +160,11 @@
   "name": "Agility Potion",
   "hd": "img/items_hd/levelup_9.png",
   "score": 0.92
+ },
+ {
+  "icon": "s096.png",
+  "name": "Reforging Prism",
+  "hd": "img/items_hd/levelup_16.png",
+  "score": 1.0
  }
 ]
