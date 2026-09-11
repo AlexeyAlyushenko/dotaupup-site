@@ -1247,5 +1247,83 @@
   "large_icon": null,
   "small_icon": null,
   "kill_absorb": true
+ },
+ {
+  "id": "c136",
+  "set": "ARCHIVEOFASCENSION",
+  "name": "Tome of Knowledge",
+  "card_name": "archive_of_ascension_tome"
+ },
+ {
+  "id": "c137",
+  "set": "ARCHIVEOFASCENSION",
+  "name": "Chronicler's Quill",
+  "card_name": "archive_of_ascension_quill"
+ },
+ {
+  "id": "c138",
+  "set": "ARCHIVEOFASCENSION",
+  "name": "Hourglass of Diligence",
+  "card_name": "archive_of_ascension_hourglass"
+ },
+ {
+  "id": "c139",
+  "set": "ARCHIVEOFASCENSION",
+  "name": "Beacon of Revelation",
+  "card_name": "archive_of_ascension_beacon"
+ },
+ {
+  "id": "c140",
+  "set": "CHAMPIONSSET",
+  "name": "Larl",
+  "card_name": "team_spirit_larl"
+ },
+ {
+  "id": "c141",
+  "set": "CHAMPIONSSET",
+  "name": "rue",
+  "card_name": "team_spirit_rue"
+ },
+ {
+  "id": "c142",
+  "set": "CHAMPIONSSET",
+  "name": "Collapse",
+  "card_name": "team_spirit_collapse"
+ },
+ {
+  "id": "c143",
+  "set": "CHAMPIONSSET",
+  "name": "not me",
+  "card_name": "team_spirit_not_me"
+ },
+ {
+  "id": "c144",
+  "set": "CHAMPIONSSET",
+  "name": "Yatoro",
+  "card_name": "team_spirit_yatoro"
+ },
+ {
+  "id": "c145",
+  "set": "BONEJESTERSET",
+  "name": "Bones",
+  "card_name": "sans_bones"
+ },
+ {
+  "id": "c146",
+  "set": "BONEJESTERSET",
+  "name": "Blue Jacket",
+  "card_name": "sans_blue_jacket"
+ },
+ {
+  "id": "c147",
+  "set": "BONEJESTERSET",
+  "name": "Gaster Blaster",
+  "card_name": "sans_gaster_blaster"
+ },
+ {
+  "id": "c148",
+  "set": "SPECIALCARD",
+  "name": "Replicator",
+  "card_name": "changeling_card"
  }
 ]
