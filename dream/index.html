@@ -62,7 +62,7 @@ tres:[["all","Все"],["4","Ранг 4"],["3","Ранг 3"],["2","Ранг 2"],
 ga:[["all","Все"],["UR","UR"],["SSR","SSR"],["SR","SR"]]};
 function chips(){var h="";CHIPS[TAB].forEach(function(c){h+='<button class="chip'+(c[0]===RF?' on':'')+'" onclick="pick(this)" data-f="'+c[0]+'">'+c[1]+'</button>'});document.getElementById('chips').innerHTML=h}
 function tab(t){TAB=t;RF="all";document.querySelectorAll('.tab').forEach(function(x){x.classList.toggle('on',x.dataset.tab===t)});
-document.getElementById('items').classList.toggle('hidden',t!=='items');document.getElementById('tres').classList.toggle('hidden',t!=='tres');chips();flt()}
+['items','tres','ga'].forEach(function(id){var el=document.getElementById(id);if(el)el.classList.toggle('hidden',id!==t)});chips();flt()}
 function pick(b){RF=b.dataset.f;b.parentNode.querySelectorAll('.chip').forEach(function(c){c.classList.remove('on')});b.classList.add('on');flt()}
 function flt(){var q=document.getElementById('q').value.trim().toLowerCase();var root=document.getElementById(TAB);
 root.querySelectorAll('.grp').forEach(function(sec){var key=sec.dataset.r||sec.dataset.t,vis=0;
